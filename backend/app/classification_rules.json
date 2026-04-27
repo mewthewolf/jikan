@@ -1,0 +1,38 @@
+[
+  {
+    "rule_id": "canva-domain",
+    "name": "Canva Design",
+    "match_domain": "canva.com",
+    "category": "design",
+    "is_work": true,
+    "label_override": "Design work in Canva",
+    "priority": 90
+  },
+  {
+    "rule_id": "google-docs-domain",
+    "name": "Google Docs Writing",
+    "match_domain": "docs.google.com",
+    "category": "writing",
+    "is_work": true,
+    "label_override": "Document writing",
+    "priority": 90
+  },
+  {
+    "rule_id": "youtube-domain",
+    "name": "YouTube Non-Work",
+    "match_domain": "youtube.com",
+    "category": "non-work",
+    "is_work": false,
+    "label_override": "Non-work browsing",
+    "priority": 100
+  },
+  {
+    "rule_id": "vscode-app",
+    "name": "VS Code Development",
+    "match_app": "code",
+    "category": "development",
+    "is_work": true,
+    "label_override": "Software development",
+    "priority": 50
+  }
+]
