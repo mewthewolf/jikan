@@ -1,5 +1,0 @@
-/Users/mewthewolf/Documents/Jikan/desktop/src-tauri/target/debug/build/icu_normalizer_data-e8e08aaf84cc209b/build_script_build-e8e08aaf84cc209b.d: /Users/mewthewolf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer_data-2.2.0/build.rs
-
-/Users/mewthewolf/Documents/Jikan/desktop/src-tauri/target/debug/build/icu_normalizer_data-e8e08aaf84cc209b/build_script_build-e8e08aaf84cc209b: /Users/mewthewolf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer_data-2.2.0/build.rs
-
-/Users/mewthewolf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/icu_normalizer_data-2.2.0/build.rs:
