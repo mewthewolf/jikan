@@ -1,0 +1,14 @@
+/Users/mewthewolf/Documents/Jikan/desktop/src-tauri/target/debug/deps/serde-a01cabd7dcdf9667.d: /Users/mewthewolf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/mewthewolf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/mewthewolf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/mewthewolf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/mewthewolf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/mewthewolf/Documents/Jikan/desktop/src-tauri/target/debug/build/serde-0afc4e70daf2776e/out/private.rs
+
+/Users/mewthewolf/Documents/Jikan/desktop/src-tauri/target/debug/deps/libserde-a01cabd7dcdf9667.rlib: /Users/mewthewolf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/mewthewolf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/mewthewolf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/mewthewolf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/mewthewolf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/mewthewolf/Documents/Jikan/desktop/src-tauri/target/debug/build/serde-0afc4e70daf2776e/out/private.rs
+
+/Users/mewthewolf/Documents/Jikan/desktop/src-tauri/target/debug/deps/libserde-a01cabd7dcdf9667.rmeta: /Users/mewthewolf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/mewthewolf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/mewthewolf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/mewthewolf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/mewthewolf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/mewthewolf/Documents/Jikan/desktop/src-tauri/target/debug/build/serde-0afc4e70daf2776e/out/private.rs
+
+/Users/mewthewolf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/Users/mewthewolf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/Users/mewthewolf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/Users/mewthewolf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/Users/mewthewolf/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/Users/mewthewolf/Documents/Jikan/desktop/src-tauri/target/debug/build/serde-0afc4e70daf2776e/out/private.rs:
+
+# env-dep:OUT_DIR=/Users/mewthewolf/Documents/Jikan/desktop/src-tauri/target/debug/build/serde-0afc4e70daf2776e/out

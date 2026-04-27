@@ -5,6 +5,9 @@ __pycache__/
 .pytest_cache/
 *.pyc
 *.egg-info/
+node_modules/
+dist/
+src-tauri/target/
 backend/data/*.db
 backend/reports/*.md
 .build/
